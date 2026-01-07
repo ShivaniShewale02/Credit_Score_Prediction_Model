@@ -194,7 +194,7 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 
-**Devashish Sharma**  
+**Shivani Shewale**  
 📧 Email: work.shivanishewale@gmail.com
 🔗 GitHub: https://github.com/ShivaniShewale02
 
